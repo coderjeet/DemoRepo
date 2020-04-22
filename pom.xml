@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   
-<dependencies>
+<dependencies>Added by Git
 
 	<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
 	<dependency>
