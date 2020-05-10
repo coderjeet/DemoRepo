@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   
-<dependencies>
+<dependencies>Added by Git
 
 	<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
 	<dependency>
@@ -16,6 +16,30 @@
 	</dependency>
 
 	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<dependency>
+	    <groupId>org.testng</groupId>
+	    <artifactId>testng</artifactId>
+	    <version>7.1.0</version>
+	    <scope>test</scope>
+	</dependency>
+	
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<dependency>
+	    <groupId>org.testng</groupId>
+	    <artifactId>testng</artifactId>
+	    <version>7.1.0</version>
+	    <scope>test</scope>
+	</dependency>
+	
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<dependency>
+	    <groupId>org.testng</groupId>
+	    <artifactId>testng</artifactId>
+	    <version>7.1.0</version>
+	    <scope>test</scope>
+	</dependency>
+	
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 	<dependency>
 	    <groupId>org.testng</groupId>
 	    <artifactId>testng</artifactId>
